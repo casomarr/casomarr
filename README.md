@@ -1,5 +1,5 @@
 
-![image](https://github.com/zemblabla7/zemblabla7/assets/59145252/f8acd3b7-3188-4e10-8c88-5d928ff7ff74)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Carolina+Somarriba;Étudiante+à+l'École+42)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)]
