@@ -2,4 +2,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=D40000&width=435&lines=Carolina+Somarriba;%C3%89tudiante+%C3%A0+l'%C3%89cole+42)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zemblabla7&layout=donut)]([https://github.com/zemblabla7/github-readme-stats](https://github.com/zemblabla7/zemblabla7/edit/main/README.md)https://github.com/zemblabla7/zemblabla7/edit/main/README.md)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)][(https://github.com/anuraghazra/github-readme-stats)](https://github.com/zemblabla7/zemblabla7/edit/main/README.md)https://github.com/zemblabla7/zemblabla7/edit/main/README.md
