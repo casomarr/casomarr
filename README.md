@@ -7,3 +7,6 @@ node updater.js ${{ github.zemblabla7 }} <monokai>-->
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casomarr&layout=compact&theme=buefy&hide_border=true" /></a>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casomarr&hide=TeX&layout=compact)
