@@ -39,6 +39,11 @@ Here’s a breakdown of the tools and languages I’m most comfortable with:
 - **Location**: Poitiers, France 
 
 
+| **Degree/Program**         | **Institution**              | **Location**      | **Year**      |
+|----------------------------|-----------------------------|------------------|--------------|
+| **Programming Education**  | École 42 Paris               | Paris, France     | 2021 - 2023   | 
+| **Master’s in Urbanism**   | [University Name]            | [City, Country]   | 201X - 201X   | 
+| **Master’s in Sociology**  | [University Name]            | [City, Country]   | 201X - 201X   | 
 
 
 
