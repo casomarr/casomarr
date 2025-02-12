@@ -18,27 +18,6 @@ Here’s a breakdown of the tools and languages I’m most comfortable with:
 
 🎓 My Studies
 
-#### **2022 - 2024**: developer program
-- **Institution**: Ecole42
-- **Location**: Paris, France
-
-#### **2020 - 2021**: Research Master's in Sociology and Anthropology
-- **Institution**: Université Libre de Bruxelles
-- **Location**: Brussels, Belgium
-
-#### **2018 - 2020**: Master’s in Urban Governance
-- **Institution**: SciencesPo
-- **Location**: Paris, France  
-
-#### **2017 - 2018**: Exchange year
-- **Institution**: Macalester College
-- **Location**: Minneapolis, Minnesota, USA
-  
-#### **2015 - 2017**: Degree in Political Sciences
-- **Institution**: SciencesPo
-- **Location**: Poitiers, France 
-
-
 | **Degree/Program**                        | **Institution**                | **Location**      | **Year**      |
 |-------------------------------------------|--------------------------------|-------------------|---------------|
 | **Programming Degree**                    | École 42                       | Paris, France     | 2022 - 2024   |  
