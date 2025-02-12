@@ -1,22 +1,9 @@
-<!---![alt text](https://github.com/zemblabla7/template_terminal/blob/master/github_stats.svg?raw=true)
-node updater.js ${{ github.zemblabla7 }} <monokai>-->
+Welcome to My GitHub Profile!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Passion+One&size=28&pause=500&color=3ac6ff&width=700&lines=CAROLINA+SOMARRIBA+PÉREZ-DESOY;ECOLE42+STUDENT)](https://git.io/typing-svg)
-
-<!---[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zemblabla7&theme=dracula)]
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casomarr&layout=compact&theme=dracula&hide_border=true" /></a>-->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casomarr&layout=compact&theme=transparent)
-
-
-
-VIM ET GDB ET VALGRIND
-
-Welcome to My GitHub Profile! 🌟
-Hi, I’m Carolina, a developer with skills in programming, urbanism, and sociology/anthropology. I’m passionate about leveraging technology to solve real-world problems, especially in areas like smart cities, urban development, and AI-driven solutions.
+I’m Carolina, a developer with skills in programming and urban governance. I’m passionate about AIs. specially when used in urban contexts such as smart cities or digital twin cities projects.
 
 🛠️ My Tech Stack
+
 Here’s a breakdown of the tools and languages I’m most comfortable with:
 
 | **Category**      | **Badges**                                                                                                                                                                                                 |
@@ -29,6 +16,33 @@ Here’s a breakdown of the tools and languages I’m most comfortable with:
 | **Debuggers** | GDB, Valgrind |
 
 
+🎓 My Studies
+
+#### **2022 - 2024**: developer program
+- **Institution**: Ecole42
+- **Location**: Paris, France
+
+#### **2020 - 2021**: Research Master's in Sociology and Anthropology
+- **Location**: Paris, France 
+
+#### **2018 - 2020**: Master’s in Urban Governance
+- **Institution**: SciencesPo
+- **Location**: Paris, France  
+
+#### **2017 - 2018**: Exchange year
+- **Institution**: Macalester College
+- **Location**: Minneapolis, Minnesota, USA
+- 
+#### **2015 - 2017**: Degree in Political Sciences
+- **Institution**: SciencesPo
+- **Location**: Poitiers, France 
+
+
+
+
+
+
+
 https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
@@ -36,9 +50,6 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
 https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white
 gdb
 gitactions
-
-📈 My GitHub Stats
-Here’s a snapshot of my GitHub activity:
 
 
 
@@ -65,3 +76,20 @@ French 🇫🇷
 English 🇬🇧
 Spanish 🇪🇸
 Catalan 
+
+
+
+
+<!---![alt text](https://github.com/zemblabla7/template_terminal/blob/master/github_stats.svg?raw=true)
+node updater.js ${{ github.zemblabla7 }} <monokai>-->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Passion+One&size=28&pause=500&color=3ac6ff&width=700&lines=CAROLINA+SOMARRIBA+PÉREZ-DESOY;ECOLE42+STUDENT)](https://git.io/typing-svg)
+
+<!---[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zemblabla7&theme=dracula)]
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casomarr&layout=compact&theme=dracula&hide_border=true" /></a>-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casomarr&layout=compact&theme=transparent)
+
+
+
