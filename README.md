@@ -23,7 +23,8 @@ Here’s a breakdown of the tools and languages I’m most comfortable with:
 - **Location**: Paris, France
 
 #### **2020 - 2021**: Research Master's in Sociology and Anthropology
-- **Location**: Paris, France 
+- **Institution**: Université Libre de Bruxelles
+- **Location**: Brussels, Belgium
 
 #### **2018 - 2020**: Master’s in Urban Governance
 - **Institution**: SciencesPo
@@ -32,12 +33,10 @@ Here’s a breakdown of the tools and languages I’m most comfortable with:
 #### **2017 - 2018**: Exchange year
 - **Institution**: Macalester College
 - **Location**: Minneapolis, Minnesota, USA
-- 
+  
 #### **2015 - 2017**: Degree in Political Sciences
 - **Institution**: SciencesPo
 - **Location**: Poitiers, France 
-
-
 
 
 
@@ -63,6 +62,7 @@ Virtualization: VirtualBox (setting up and managing VMs)
 System Administration: Bash scripting, process management, file systems
 Algorithms & Data Structures: Efficient problem-solving techniques
 Collaboration: Pair programming, peer-to-peer learning
+
 🔭 Interests & Focus Areas
 I’m currently exploring how Artificial Intelligence can revolutionize urbanism. My focus areas include:
 
