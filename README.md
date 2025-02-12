@@ -16,17 +16,6 @@ Here’s a breakdown of the tools and languages I’m most comfortable with:
 | **Debuggers** | GDB, Valgrind |
 
 
-
-### 🎓 My Studies  
-
-| **Icon** | **Program**                 | **Details**                                                                 |
-|----------|-----------------------------|-----------------------------------------------------------------------------|
-| 🏛️       | **Master’s in Urbanism**    | - **Institution**: [University Name] <br> - **Focus**: Smart Cities, Urban Planning |
-| 📘       | **Master’s in Sociology**   | - **Institution**: [University Name] <br> - **Focus**: Social Behavior, Research    |
-| 💻       | **Programming Education**   | - **Institution**: École 42 Paris <br> - **Focus**: Git, Docker, C, Python          |
-
-
-
 🎓 My Studies
 
 #### **2022 - 2024**: developer program
@@ -50,12 +39,13 @@ Here’s a breakdown of the tools and languages I’m most comfortable with:
 - **Location**: Poitiers, France 
 
 
-| **Degree/Program**         | **Institution**              | **Location**      | **Year**      |
-|----------------------------|-----------------------------|------------------|--------------|
-| **Programming Education**  | École 42 Paris               | Paris, France     | 2021 - 2023   | 
-| **Master’s in Urbanism**   | [University Name]            | [City, Country]   | 201X - 201X   | 
-| **Master’s in Sociology**  | [University Name]            | [City, Country]   | 201X - 201X   | 
-
+| **Degree/Program**                        | **Institution**                | **Location**      | **Year**      |
+|-------------------------------------------|--------------------------------|-------------------|---------------|
+| **Programming Degree**                    | École 42                       | Paris, France     | 2022 - 2024   |  
+| **Master in Sociology and Anthropology**  | Université Libre de Bruxelles  | Brussels, Belgium | 2020 - 2021   | 
+| **Master in Urban Governance**            | Sciences Po                    | Paris, France     | 2018 - 2020   |
+| **Exchange year**                         | Macalester College             | Minneapolis, USA  | 2017 - 2018   | 
+| **Degree in Political Sciences**          | Sciences Po                    | Poitiers, France  | 2015 - 2017   |
 
 
 https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
