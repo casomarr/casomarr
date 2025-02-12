@@ -16,6 +16,17 @@ Here’s a breakdown of the tools and languages I’m most comfortable with:
 | **Debuggers** | GDB, Valgrind |
 
 
+
+### 🎓 My Studies  
+
+| **Icon** | **Program**                 | **Details**                                                                 |
+|----------|-----------------------------|-----------------------------------------------------------------------------|
+| 🏛️       | **Master’s in Urbanism**    | - **Institution**: [University Name] <br> - **Focus**: Smart Cities, Urban Planning |
+| 📘       | **Master’s in Sociology**   | - **Institution**: [University Name] <br> - **Focus**: Social Behavior, Research    |
+| 💻       | **Programming Education**   | - **Institution**: École 42 Paris <br> - **Focus**: Git, Docker, C, Python          |
+
+
+
 🎓 My Studies
 
 #### **2022 - 2024**: developer program
