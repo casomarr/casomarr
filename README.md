@@ -1,6 +1,7 @@
-Welcome to My GitHub Profile!
+![catalonia](https://github.com/user-attachments/assets/da0b33be-d590-464d-9955-08d23833b5ee)![catalonia](https://github.com/user-attachments/assets/2eef47ba-8f9d-4878-9639-951052cebf48)Welcome to My GitHub Profile!
 
 I’m Carolina, a developer with skills in programming and urban governance. I’m passionate about AIs. specially when used in urban contexts such as smart cities or digital twin cities projects.
+
 
 🛠️ My Tech Stack
 
@@ -16,6 +17,7 @@ Here’s a breakdown of the tools and languages I’m most comfortable with:
 | **Debuggers** | GDB, Valgrind |
 
 
+
 🎓 My Studies
 
 | **Degree/Program**                        | **Institution**                | **Location**      | **Year**      |
@@ -27,42 +29,22 @@ Here’s a breakdown of the tools and languages I’m most comfortable with:
 | **Degree in Political Sciences**          | Sciences Po                    | Poitiers, France  | 2015 - 2017   |
 
 
+🌍 Languages I Speak
+French 🇫🇷
+English 🇬🇧
+Spanish 🇪🇸
+Catalan 
+Portuguese 🇵🇹 
+
+![Uploading cat<svg viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg"><path d="m0 0h640v480h-640z" fill="#fcdd09"/><path d="m0 90h810m0 120h-810m0 120h810m0 120h-810" stroke="#da121a" stroke-width="60" transform="scale(.79012 .88889)"/></svg>alonia.svg…]()
+
 https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
 https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white
 gdb
-gitactions
-
-
-
-🎓 What I Learned at 42 Paris
-My time at 42 Paris was transformative. Here’s a list of key skills and concepts I mastered:
-
-Programming Languages: C, Python, Shell scripting
-Version Control: Git (including branching, merging, and rebasing)
-Containerization: Docker (creating and managing containers)
-Virtualization: VirtualBox (setting up and managing VMs)
-System Administration: Bash scripting, process management, file systems
-Algorithms & Data Structures: Efficient problem-solving techniques
-Collaboration: Pair programming, peer-to-peer learning
-
-🔭 Interests & Focus Areas
-I’m currently exploring how Artificial Intelligence can revolutionize urbanism. My focus areas include:
-
-Smart Cities: Using AI to optimize urban planning and resource management.
-Twin Cities: Creating digital twins for cities to simulate and predict urban dynamics.
-
-🌍 Languages I Speak
-I’m fluent in:
-
-French 🇫🇷
-English 🇬🇧
-Spanish 🇪🇸
-Catalan 
-
-
+githubactions
 
 
 <!---![alt text](https://github.com/zemblabla7/template_terminal/blob/master/github_stats.svg?raw=true)
