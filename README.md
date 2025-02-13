@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Passion+One&size=28&pause=500&color=#b81437&width=700&lines=CAROLINA+SOMARRIBA+PÉREZ-DESOY;ECOLE42+STUDENT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Passion+One&size=28&pause=500&color=b81437&width=700&lines=CAROLINA+SOMARRIBA+PÉREZ-DESOY;ECOLE42+STUDENT)](https://git.io/typing-svg)
 
 Welcome to My GitHub Profile!
 
