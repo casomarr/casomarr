@@ -27,6 +27,7 @@ Here’s a breakdown of the tools and languages I’m most comfortable with:
 | **Master in Urban Governance**            | Sciences Po                    | Paris, France     | 2018 - 2020   |
 | **Exchange year**                         | Macalester College             | Minneapolis, USA  | 2017 - 2018   | 
 | **Degree in Political Sciences**          | Sciences Po                    | Poitiers, France  | 2015 - 2017   |
+| **BAC ES**                                | Lycée Français de Barcelone    | Barcelona, Spain  | 2005 - 2015   |
 
 
 🌍 Languages I Speak
@@ -36,11 +37,9 @@ Spanish 🇪🇸
 Catalan <img src="https://github.com/user-attachments/assets/2eef47ba-8f9d-4878-9639-951052cebf48" alt="cat" height="10">
 Portuguese 🇵🇹 
 
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-
-https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 gdb
 githubactions
 
