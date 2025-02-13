@@ -33,10 +33,8 @@ Here’s a breakdown of the tools and languages I’m most comfortable with:
 French 🇫🇷
 English 🇬🇧
 Spanish 🇪🇸
-Catalan <img src="https://github.com/user-attachments/assets/2eef47ba-8f9d-4878-9639-951052cebf48" alt="cat" height="15">
+Catalan <img src="https://github.com/user-attachments/assets/2eef47ba-8f9d-4878-9639-951052cebf48" alt="cat" height="10">
 Portuguese 🇵🇹 
-
-![catalonia](https://github.com/user-attachments/assets/da0b33be-d590-464d-9955-08d23833b5ee)![catalonia](https://github.com/user-attachments/assets/2eef47ba-8f9d-4878-9639-951052cebf48)
 
 https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
