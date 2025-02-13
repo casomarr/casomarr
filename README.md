@@ -33,7 +33,7 @@ Here’s a breakdown of the tools and languages I’m most comfortable with:
 French 🇫🇷
 English 🇬🇧
 Spanish 🇪🇸
-Catalan <img src="https://github.com/user-attachments/assets/b13909e7-86f6-4651-ab07-d6226cdcad43" alt="cat" height="5">
+Catalan <img src="https://github.com/user-attachments/assets/b13909e7-86f6-4651-ab07-d6226cdcad43" alt="cat" height="20">
 Portuguese 🇵🇹 
 
 ![catalonia](https://github.com/user-attachments/assets/da0b33be-d590-464d-9955-08d23833b5ee)![catalonia](https://github.com/user-attachments/assets/2eef47ba-8f9d-4878-9639-951052cebf48)
