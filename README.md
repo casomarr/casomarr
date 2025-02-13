@@ -31,7 +31,8 @@ Here’s a breakdown of the tools and languages I’m most comfortable with:
 | **BAC ES**                                | Lycée Français de Barcelone    | Barcelona, Spain  | 2005 - 2015   |
 
 
-🌍 Languages I Speak
+🌍 Languages
+
 French 🇫🇷
 English 🇬🇧
 Spanish 🇪🇸
