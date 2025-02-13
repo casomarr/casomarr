@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Passion+One&size=28&pause=500&color=3ac6ff&width=700&lines=CAROLINA+SOMARRIBA+PÉREZ-DESOY;ECOLE42+STUDENT)](https://git.io/typing-svg)
+
 Welcome to My GitHub Profile!
 
 I’m Carolina, a developer with skills in programming and urban governance. I’m passionate about AIs. specially when used in urban contexts such as smart cities or digital twin cities projects.
