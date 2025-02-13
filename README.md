@@ -7,10 +7,11 @@
 
 Welcome to My GitHub Profile!
 
-I’m Carolina, a versatile developer with a strong foundation in urban governance. I’m deeply passionate about artificial intelligence, particularly when used in urban contexts like smart cities and digital twin city projects.
+I’m Carolina, a versatile developer with a strong foundation in urban governance. I’m deeply passionate about artificial intelligence, particularly when used in urban contexts like smart cities and digital twin city projects. <br> <br>
 
 
 🛠️ My Tech Stack
+
 
 | **Category**      | **Badges**                                                                                                                                                                                                 |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -21,6 +22,7 @@ I’m Carolina, a versatile developer with a strong foundation in urban governan
 | **Databases**        | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
 | **Debuggers**        | <img src="https://media.licdn.com/dms/image/v2/D4D22AQE18jS50PWOcg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1722088777437?e=1742428800&v=beta&t=mjFp5N5xi2PlSHGL0BCBEVaxQQl6P4I09Krv38CUCL4" alt="GDB" height="40"> <img src="https://expertinsights.com/insights/wp-content/uploads/2024/02/Group-603.png" alt="GDB" height="40">|
 
+<br>
 
 🎓 My Studies
 
@@ -33,6 +35,7 @@ I’m Carolina, a versatile developer with a strong foundation in urban governan
 | **Degree in Political Sciences**          | Sciences Po                    | Poitiers, France  | 2015 - 2017   |
 | **BAC ES**                                | Lycée Français de Barcelone    | Barcelona, Spain  | 2005 - 2015   |
 
+<br>
 
 🌍 Languages
 
