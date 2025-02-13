@@ -1,4 +1,4 @@
-![catalonia](https://github.com/user-attachments/assets/da0b33be-d590-464d-9955-08d23833b5ee)![catalonia](https://github.com/user-attachments/assets/2eef47ba-8f9d-4878-9639-951052cebf48)Welcome to My GitHub Profile!
+Welcome to My GitHub Profile!
 
 I’m Carolina, a developer with skills in programming and urban governance. I’m passionate about AIs. specially when used in urban contexts such as smart cities or digital twin cities projects.
 
@@ -33,10 +33,10 @@ Here’s a breakdown of the tools and languages I’m most comfortable with:
 French 🇫🇷
 English 🇬🇧
 Spanish 🇪🇸
-Catalan 
+Catalan <img src="https://github.com/user-attachments/assets/b13909e7-86f6-4651-ab07-d6226cdcad43" alt="cat" height="5">
 Portuguese 🇵🇹 
 
-![Uploading cat<svg viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg"><path d="m0 0h640v480h-640z" fill="#fcdd09"/><path d="m0 90h810m0 120h-810m0 120h810m0 120h-810" stroke="#da121a" stroke-width="60" transform="scale(.79012 .88889)"/></svg>alonia.svg…]()
+![catalonia](https://github.com/user-attachments/assets/da0b33be-d590-464d-9955-08d23833b5ee)![catalonia](https://github.com/user-attachments/assets/2eef47ba-8f9d-4878-9639-951052cebf48)
 
 https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
