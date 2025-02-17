@@ -10,7 +10,7 @@ Welcome to My GitHub Profile!
 I’m Carolina, a versatile developer with a strong foundation in urban governance. I’m deeply passionate about artificial intelligence, particularly when used in urban contexts like smart cities and digital twin city projects. <br> <br>
 
 
-🛠️ ## My Tech Stack
+## 🛠️ My Tech Stack
 
 
 | **Category**      | **Badges**                                                                                                                                                                                                 |
@@ -24,7 +24,7 @@ I’m Carolina, a versatile developer with a strong foundation in urban governan
 
 <br>
 
-🎓 ## My Studies
+## 🎓 My Studies
 
 | **Degree/Program**                        | **Institution**                | **Location**      | **Year**      |
 |-------------------------------------------|--------------------------------|-------------------|---------------|
@@ -37,7 +37,7 @@ I’m Carolina, a versatile developer with a strong foundation in urban governan
 
 <br>
 
-🌍 ## Languages
+## 🌍 Languages
 
 French 🇫🇷
 English 🇬🇧
@@ -45,7 +45,7 @@ Spanish 🇪🇸
 Catalan <img src="https://github.com/user-attachments/assets/2eef47ba-8f9d-4878-9639-951052cebf48" alt="cat" height="10">
 Portuguese 🇵🇹 
 
-📫 ## How to reach me
+## 📫 How to reach me
 <div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/carolina-somarriba-pérez-desoy-2303a812a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em"></a>
   <a href="mailto:cbsomarriba@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25em"></a>
