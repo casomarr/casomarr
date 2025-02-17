@@ -39,12 +39,11 @@ I’m Carolina, a versatile developer with a strong foundation in urban governan
 
 ## 🌍 Languages
 
-French <img src="https://github.com/user-attachments/assets/22b6d955-53fc-4e2a-a183-b0ac6153f818" alt="cat" height="10"> ![image](https://github.com/user-attachments/assets/3c354f73-af06-4503-b5da-835f0dec5e54)
-
-English 🇬🇧
-Spanish 🇪🇸
+French <img src="https://github.com/user-attachments/assets/22b6d955-53fc-4e2a-a183-b0ac6153f818" alt="cat" height="15">
+English <img src="https://github.com/user-attachments/assets/ceed9fa1-e988-47a7-8d49-cd203159b3f9" alt="cat" height="15">
+Spanish <img src="https://github.com/user-attachments/assets/9c1c4cac-541f-47c3-8ded-b7dfcefac504" alt="cat" height="15">
 Catalan <img src="https://github.com/user-attachments/assets/2eef47ba-8f9d-4878-9639-951052cebf48" alt="cat" height="10">
-Portuguese 🇵🇹 
+Portuguese <img src="https://github.com/user-attachments/assets/6670eab1-0b55-469b-b75e-745925efc5f6" alt="cat" height="10">
 
 ## 📫 How to reach me
 <div style="display: flex; gap: 10px;">
