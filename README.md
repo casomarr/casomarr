@@ -39,7 +39,7 @@ I’m Carolina, a versatile developer with a strong foundation in urban governan
 
 ## 🌍 Languages
 
-French 🇫🇷
+French <img src="https://github.com/user-attachments/assets/22b6d955-53fc-4e2a-a183-b0ac6153f818" alt="cat" height="10">
 English 🇬🇧
 Spanish 🇪🇸
 Catalan <img src="https://github.com/user-attachments/assets/2eef47ba-8f9d-4878-9639-951052cebf48" alt="cat" height="10">
